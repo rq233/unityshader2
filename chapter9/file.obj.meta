@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 1d2e6a345c9332448b1882099bb6a0d9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kista07
+    100004: Kista10
+    100006: Kista11
+    100008: Kista12
+    100010: Line03
+    100012: Line04
+    100014: Line1789527866
+    100016: Line1789527867
+    100018: obj_15
+    100020: obj_1557
+    100022: obj_1558
+    100024: obj_16
+    100026: Object04
+    100028: Object09
+    100030: Object162
+    100032: Object163
+    100034: Plane04
+    100036: Plane103
+    100038: Shape03
+    100040: Shape28
+    400000: //RootNode
+    400002: Kista07
+    400004: Kista10
+    400006: Kista11
+    400008: Kista12
+    400010: Line03
+    400012: Line04
+    400014: Line1789527866
+    400016: Line1789527867
+    400018: obj_15
+    400020: obj_1557
+    400022: obj_1558
+    400024: obj_16
+    400026: Object04
+    400028: Object09
+    400030: Object162
+    400032: Object163
+    400034: Plane04
+    400036: Plane103
+    400038: Shape03
+    400040: Shape28
+    2100000: Kista07Mat
+    2100002: Kista10Mat
+    2100004: Kista11Mat
+    2100006: Kista12Mat
+    2100008: Line03Mat
+    2100010: Line04Mat
+    2100012: Line1789527866Mat
+    2100014: Line1789527867Mat
+    2100016: obj_15Mat
+    2100018: obj_1557Mat
+    2100020: obj_1558Mat
+    2100022: obj_16Mat
+    2100024: Object04Mat
+    2100026: Object09Mat
+    2100028: Object162Mat
+    2100030: Object163Mat
+    2100032: Plane04Mat
+    2100034: Plane103Mat
+    2100036: Shape03Mat
+    2100038: Shape28Mat
+    2300000: Kista07
+    2300002: Kista10
+    2300004: Kista11
+    2300006: Kista12
+    2300008: Line03
+    2300010: Line04
+    2300012: Line1789527866
+    2300014: Line1789527867
+    2300016: obj_15
+    2300018: obj_1557
+    2300020: obj_1558
+    2300022: obj_16
+    2300024: Object04
+    2300026: Object09
+    2300028: Object162
+    2300030: Object163
+    2300032: Plane04
+    2300034: Plane103
+    2300036: Shape03
+    2300038: Shape28
+    3300000: Kista07
+    3300002: Kista10
+    3300004: Kista11
+    3300006: Kista12
+    3300008: Line03
+    3300010: Line04
+    3300012: Line1789527866
+    3300014: Line1789527867
+    3300016: obj_15
+    3300018: obj_1557
+    3300020: obj_1558
+    3300022: obj_16
+    3300024: Object04
+    3300026: Object09
+    3300028: Object162
+    3300030: Object163
+    3300032: Plane04
+    3300034: Plane103
+    3300036: Shape03
+    3300038: Shape28
+    4300000: Kista07
+    4300002: Kista10
+    4300004: Kista11
+    4300006: Kista12
+    4300008: Line03
+    4300010: Line04
+    4300012: Line1789527866
+    4300014: Line1789527867
+    4300016: obj_15
+    4300018: obj_1557
+    4300020: obj_1558
+    4300022: obj_16
+    4300024: Object04
+    4300026: Object09
+    4300028: Object162
+    4300030: Object163
+    4300032: Plane04
+    4300034: Plane103
+    4300036: Shape03
+    4300038: Shape28
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
